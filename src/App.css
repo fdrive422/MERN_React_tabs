@@ -1,0 +1,25 @@
+.App {
+	text-align: center;
+}
+
+.activeTabStyle {
+	padding: 0.5em 1em;
+	background-color: black;
+	color: white;
+	margin: 0.5em;
+}
+
+.inactiveTabStyle {
+	padding: 0.5em 1em;
+	background-color: gray;
+	color: white;
+	margin: 0.5em;
+}
+
+.displayBox {
+	width: 85%;
+	height: 100px;
+	margin: auto;
+	padding: 0.5em;
+	border: 1px solid gray;
+}
